@@ -1,5 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HuichuanLI" alt="HuichuanLI" /> </p>
+
 ### Hi there 👋
 - 🌱 I’m currently learning machine learning !
+
 
 <!--
 **shuzijun/shuzijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
