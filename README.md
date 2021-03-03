@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HuichuanLI" alt="HuichuanLI" /> </p>
 
 ### Hi there 👋
-- 🌱 I’m currently learning machine learning !
+<h1 align="center">Hi 👋, I'm Huichuan LI</h1>
 
 
 <!--
